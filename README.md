@@ -1,4 +1,4 @@
-# Speech_Recognition_Machine-Learning-Project
+# Speech Recognition Machine Learning Project
 
 ## Speech Recognition Models for Speaker and Environment Classification
 
