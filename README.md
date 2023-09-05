@@ -5,9 +5,12 @@
 ### Overview
 This repository contains two targeted speech recognition models:
 
-1) **Speaker Gender Identification**: Classifies the gender of the speaker.<br>
-2) **Recording Environment Classification**: Identifies the environment where the recording took place.<br>
-The models are engineered using the MLEnds Sounds dataset and utilize a variety of Machine Learning techniques for optimal performance.<br>
+#### Basic
+1) **Recording Environment Classification**: Identifies the environment where the recording took place.<br>
+The models are engineered using the MLEnds Sounds dataset and utilize a variety of Machine Learning techniques for optimal performance.<be>
+
+#### Advanced
+2) **Speaker Gender Identification**: Classifies the gender of the speaker.<br>
 
 ### Highlights
 Dataset: MLEnds Sounds<br>
