@@ -1,4 +1,4 @@
-# Speech Recognition Machine Learning Project
+# Speech Recognition Project
 
 ## Speech Recognition Models for Speaker and Environment Classification
 
@@ -17,4 +17,4 @@ Dataset: MLEnds Sounds<br>
 Algorithms Used: Logistic Regression, Support Vector Machines (SVM), Random Forest<br>
 Feature Selection: Strategic feature selection techniques applied for performance improvement.<br>
 Hyperparameter Optimization: Utilized Grid Search to optimize model parameters.<br>
-Performance: Achieved a high F1-score of 86.63%.<br>
+Performance: Achieved a high F1-score.<br>
